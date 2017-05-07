@@ -1,0 +1,13 @@
+{
+  "name": "package-name",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "npm run build -- --watch",
+    "lint": "tslint --project tsconfig-test.json --type-check"
+  },
+  "devDependencies": {
+    "tslint": "^5.2.0",
+    "typescript": "^2.3.2"
+  }
+}
