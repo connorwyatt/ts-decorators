@@ -1,5 +1,5 @@
 {
-  "name": "package-name",
+  "name": "@connorwyatt/ts-decorators",
   "version": "0.0.0",
   "scripts": {
     "build": "tsc",
